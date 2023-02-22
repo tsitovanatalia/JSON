@@ -1,0 +1,39 @@
+{
+   "testing_theory":[
+      "SDLC",
+      "STLC",
+      "Documentation",
+      "Types oftesting",
+      "Methods testing"
+   ],
+   "client_server_architecture":[
+      "HTTP_methods_of_reguest_to_the_server",
+      "server_respons_codes",
+      "structures_of_HTTP_request_and_respons",
+      "JSON",
+      "XML"
+   ],
+"API_Testing" : "API Testing with Postman",
+"Logs" :"Removing and reading logs from an external server",
+"Sniffing_http_web_traffic" : "Charles and Fiddler",
+"Dev_tools" : "Developer tools for web browsers (Google Chrome, FireFox)",
+"Command_line (Terminal) Linux" : "Copy, create, view, move files on non-GUI servers",
+"Database" : "Postgres (installation, configuration and use)",
+"Non_relational_Redis_database " : "installation, configuration and use",
+"Load testing" : "Apache JMeter",
+"Basics of bash scripting" : "Automation of routine tasks on the server",
+"Mobile_testing": ["Feature iOS and Android", "Guidelines", "Building iOS Application with Xcode", "Building Android Application on Android Studio", "ADB (android device management)", "Setting up proxy and vpn on iOS and Android", "Sniffing of mobile traffic  via Charles and Fiddler on iOS and Android"],
+   
+   "SQL":[
+      "Create",
+      "Delete",
+      "Drop",
+      "Insert_into",
+      "Select",
+      "From",
+      "Where",
+      "Join"
+   ],
+"Python " : "Learning the basics. Creating a client-server application"
+}
+
